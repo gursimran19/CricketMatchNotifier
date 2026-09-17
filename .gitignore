@@ -1,14 +1,14 @@
-# Secrets -- never commit this
+# Never commit this
 config.py
 
-# Old drafts / backups -- not part of the real project
+# Old drafts / backups
 Backup/
 
 # Python bytecode / cache
 __pycache__/
 *.pyc
 
-# Virtual environment folders (if you use one later)
+# Virtual environment folders
 venv/
 .venv/
 
