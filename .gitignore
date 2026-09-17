@@ -1,0 +1,18 @@
+# Secrets -- never commit this
+config.py
+
+# Old drafts / backups -- not part of the real project
+Backup/
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders (if you use one later)
+venv/
+.venv/
+
+# Editor/OS clutter
+.vscode/
+.idea/
+Thumbs.db
